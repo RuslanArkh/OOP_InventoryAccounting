@@ -1,0 +1,42 @@
+COMPUTER:
+inventory_id="1"
+registered="2013/03/01"
+cpu="..."
+ram="2048"
+hdd="500"
+
+EMBEDDED_GSM:
+inventory_id="2"
+registered="2012/06/01"
+number="+380990005566"
+gsm_frequency="900,1800"
+clock="412.2"
+
+ MOBILE_PHONE:
+inventory_id="3"
+registered="2013/08/01"
+cpu="..."
+ram="512"
+hdd="0.5"
+number="+380951234567"
+gsm_frequency="450, 900, 1800, 1900"
+
+SERVER_COMPUTER:
+inventory_id="4"
+registered="2017/06/01"
+cpu="..."
+ram="16300"
+hdd="4096"
+hpp_replication="4"
+network_id="00:F1:09:FG:A1:90"
+network_id="F1:41:09:FG:A1:33"
+
+MOBILE_PHONE:
+inventory_id="5"
+registered="2016/08/01"
+cpu="ARM Cortex"
+ram="1024"
+hdd="0.5"
+number="+380950044567"
+gsm_frequency="450, 900, 1800, 1900"
+
